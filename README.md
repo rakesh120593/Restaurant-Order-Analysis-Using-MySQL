@@ -156,22 +156,22 @@ This project analyzes a restaurant order dataset from Maven Analytics, consistin
 
 ## Key Findings:
  
-    The menu has 32 items across four categories: American, Asian, Mexican, and Italian.
+The menu has 32 items across four categories: American, Asian, Mexican, and Italian.
 
-    Shrimp Scampi is the most expensive item, while Edamame is the least expensive.
+Shrimp Scampi is the most expensive item, while Edamame is the least expensive.
 
-    The menu includes 9 Italian dishes, with Fettuccine Alfredo being the least expensive.
+The menu includes 9 Italian dishes, with Fettuccine Alfredo being the least expensive.
 
-    A total of 5,370 orders were placed, with 12,234 items ordered within the dataset's date range.
+A total of 5,370 orders were placed, with 12,234 items ordered within the dataset's date range.
 
-    The highest number of items in a single order was Order #4305.
+The highest number of items in a single order was Order #4305.
 
-    Hamburger was the most ordered item, while Chicken Tacos was the least ordered.
+Hamburger was the most ordered item, while Chicken Tacos was the least ordered.
 
-    Order #440 had the highest spending, mostly on Italian dishes, suggesting demand for more Italian options.
+Order #440 had the highest spending, mostly on Italian dishes, suggesting demand for more Italian options.
 
-    The top 5 highest-spending orders were from Order IDs: 440, 2075, 1957, 330, and 2675.
+The top 5 highest-spending orders were from Order IDs: 440, 2075, 1957, 330, and 2675.
 
-    These insights help optimize menu offerings, identify customer preferences, and improve restaurant sales strategies.
+These insights help optimize menu offerings, identify customer preferences, and improve restaurant sales strategies.
 
  # Thank you for reviewing the report!!!
